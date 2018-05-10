@@ -1,4 +1,4 @@
-<h1>ANDROID INTRODUCTION</h1><hr>
+<h1 align="center">Android Introduction</h1>
 <ul>
 <li>Android is an open source and Linux-based operating system for mobile device such as smart phones, tablets, computers and television.</li>
 <li>Android was developed by Open Handset Alliance, led by Google and other companies.</li>
