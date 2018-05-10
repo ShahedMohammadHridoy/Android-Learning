@@ -1,4 +1,4 @@
-<h1>Android Versions & History</h1>
+<h1 align="center">Android Versions & History</h1>
 <table>
 <tr><td align="center"><b>Version</b></td><td align="center"><b>Name</b></td><td align="center"><b>API Level</b></td></tr>
 <tr> <td>1.0</td><td>Aestro</td><td>1</td></tr>
