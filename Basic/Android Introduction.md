@@ -1,13 +1,7 @@
-<h1>ANDROID ARCHITECTURE</h1>
-<Table>
-    <tr>
-        <td colspan="5" align="center">System Apps</td>
-    </tr>
-    <tr>
-        <td>Dialer</td>
-        <td>Email</td>
-        <td>Calender</td>
-        <td>Camera</td>
-        <td>...</td>
-    </tr>
-</Table>
+<h1 align="center">ANDROID INTRODUCTION</h1>
+<ul>
+<li>Android is an open source and Linux-based operating system for mobile device such as smart phones, tablets, computers and television.</li>
+<li>Android was developed by Open Handset Alliance, led by Google and other companies.</li>
+<li>Android's source code is released by Google under an open source licence, although most Android devices ultimately ship with a combination of free and open source and profitery software.</li>
+<li>The goal of android project is to make a succesfull real-world product that improves the mobile experiance for mobile users.</li>
+</ul>
